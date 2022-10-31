@@ -18,7 +18,7 @@ const libro = {
     autor: "Arthur Conan Doyle",
     fecha: new Date(1901, 4, 5),
     url: "https://es.wikipedia.org/wiki/El_sabueso_de_los_Baskerville"
-}
+};
 
 let nombre = "Juan Manuel";
 let edad = 19;
